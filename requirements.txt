@@ -1,0 +1,34 @@
+python-telegram-bot[ext]
+google-genai
+python-dotenv
+aiosqlite
+torch --index-url https://download.pytorch.org/whl/cu121
+torchvision --index-url https://download.pytorch.org/whl/cu121
+torchaudio --index-url https://download.pytorch.org/whl/cu121
+TTS
+anyascii
+mutagen
+flask
+pysbd
+umap-learn
+pandas
+trainer
+coqpit
+jieba
+pypinyin
+hangul_romanize
+gruut==2.2.3
+jamo
+nltk
+g2pkk
+bangla
+bnnumerizer
+bnunicodenormalizer
+einops
+transformers
+encodec
+unidecode
+num2words
+spacy
+f5-tts
+ruaccent
